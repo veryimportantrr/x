@@ -1,4 +1,4 @@
-if game.GameId == 383310974 then
+if game.GameId == 383310974 or game.GameId == 66654135 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/games/adoptme.lua", true))()
     return
 end
